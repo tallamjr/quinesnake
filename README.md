@@ -8,7 +8,7 @@ The program compiles itself; to run it first make the source file executable
 (`chmod +x quinesnake.cpp`), then run it with `./quinesnake.cpp`. It invokes
 `g++` on itself and then starts the game.
 
-The snake is controlled with `w`, `a`, `s` and `d`.
+The snake is controlled with the vim key-bindings of `h`, `j, k` and `l`
 
 Note: some people have reported issues where the snake and food appear black
 in their terminals. This is likely due to the value of the environments
